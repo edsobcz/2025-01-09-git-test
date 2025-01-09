@@ -7,4 +7,4 @@
 - `git commit -m "MESSAGE"`: commits the added files with the commit message in quotes
 - `git push <WHERE> <WHAT>`: pushes changes from local machine to remote (WHERE) using the branch (WHAT), will often be origin main
 - `git pull <WHERE> <WHAT>`: brings chnages from remote to local machine
-- `git merge`: here we are making a local change!
+- `git merge`: is what you do when you make changes that conflict
