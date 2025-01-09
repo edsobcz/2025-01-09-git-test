@@ -5,6 +5,6 @@
 
 - `git status`: tells you everything you need to know about your github repo (including whether you're in a github repo)
 
-- `git add`: adds the file to the staging area and readies it for committing
+- `git add <FILE>`: adds the file to the staging area and readies it for committing
 
-- `git commit -m "message here"`: commits the added files with the commit message in quotes
+- `git commit -m "MESSAGE"`: commits the added files with the commit message in quotes
